@@ -57,6 +57,7 @@
             android:layout_weight="1"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
+            app:srcCompat="@drawable/meteor"
            ></com.google.android.material.imageview.ShapeableImageView>
         <com.google.android.material.imageview.ShapeableImageView
             android:layout_width="0dp"
@@ -64,6 +65,7 @@
             android:id="@+id/m2"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
+            app:srcCompat="@drawable/meteor"
            ></com.google.android.material.imageview.ShapeableImageView>
         <com.google.android.material.imageview.ShapeableImageView
             android:layout_width="0dp"
@@ -71,6 +73,7 @@
             android:id="@+id/m3"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
+            app:srcCompat="@drawable/meteor"
            ></com.google.android.material.imageview.ShapeableImageView>
     </LinearLayout>
     <LinearLayout
@@ -89,7 +92,7 @@
             android:layout_weight="1"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
-           >
+            app:srcCompat="@drawable/meteor">
 
         </com.google.android.material.imageview.ShapeableImageView>
         <com.google.android.material.imageview.ShapeableImageView
@@ -98,6 +101,7 @@
             android:layout_weight="1"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
+            app:srcCompat="@drawable/meteor"
             >
 
         </com.google.android.material.imageview.ShapeableImageView>
@@ -107,7 +111,7 @@
             android:layout_weight="1"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
-            >
+            app:srcCompat="@drawable/meteor">
 
         </com.google.android.material.imageview.ShapeableImageView>
     </LinearLayout>
@@ -127,7 +131,7 @@
             android:layout_weight="1"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
-           >
+            app:srcCompat="@drawable/meteor">
 
         </com.google.android.material.imageview.ShapeableImageView>
         <com.google.android.material.imageview.ShapeableImageView
@@ -136,7 +140,7 @@
             android:id="@+id/m8"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
-           >
+            app:srcCompat="@drawable/meteor">
 
         </com.google.android.material.imageview.ShapeableImageView>
         <com.google.android.material.imageview.ShapeableImageView
@@ -145,7 +149,7 @@
             android:id="@+id/m9"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
-            >
+            app:srcCompat="@drawable/meteor">
 
         </com.google.android.material.imageview.ShapeableImageView>
     </LinearLayout>
@@ -165,7 +169,7 @@
             android:layout_weight="1"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
-            >
+            app:srcCompat="@drawable/meteor">
 
         </com.google.android.material.imageview.ShapeableImageView>
         <com.google.android.material.imageview.ShapeableImageView
@@ -174,7 +178,7 @@
             android:layout_weight="1"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
-           >
+            app:srcCompat="@drawable/meteor">
 
         </com.google.android.material.imageview.ShapeableImageView>
         <com.google.android.material.imageview.ShapeableImageView
@@ -183,7 +187,7 @@
             android:layout_weight="1"
             android:layout_height="match_parent"
             android:scaleType="fitCenter"
-           >
+            app:srcCompat="@drawable/meteor">
 
         </com.google.android.material.imageview.ShapeableImageView>
     </LinearLayout>
